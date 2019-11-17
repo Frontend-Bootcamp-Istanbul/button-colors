@@ -20,3 +20,37 @@
 .App-link {
   color: #09d3ac;
 }
+.main-container{
+  padding: 20px;
+  margin: 0 auto;
+  height: 300px;
+}
+
+.renkli-buton {
+  padding: 20px;
+  color: white;
+  font-weight: bold;
+}
+.renkli-buton + .renkli-buton {
+  margin-left: 20px;
+}
+
+.green {
+  background: green;
+}
+
+.red{
+  background: red;
+}
+
+.blue {
+  background: blue;
+}
+
+.brown {
+  background: brown;
+}
+
+.yellow {
+  background: yellow;
+}
